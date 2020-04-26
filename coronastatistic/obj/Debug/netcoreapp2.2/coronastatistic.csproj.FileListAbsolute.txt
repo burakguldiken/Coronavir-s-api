@@ -1,0 +1,15 @@
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\bin\Debug\netcoreapp2.2\coronastatistic.deps.json
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\bin\Debug\netcoreapp2.2\coronastatistic.runtimeconfig.json
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\bin\Debug\netcoreapp2.2\coronastatistic.runtimeconfig.dev.json
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\bin\Debug\netcoreapp2.2\coronastatistic.dll
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.csprojAssemblyReference.cache
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.csproj.CoreCompileInputs.cache
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.RazorAssemblyInfo.cache
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.RazorAssemblyInfo.cs
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.AssemblyInfoInputs.cache
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.AssemblyInfo.cs
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.RazorTargetAssemblyInfo.cache
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\bin\Debug\netcoreapp2.2\coronastatistic.pdb
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\bin\Debug\netcoreapp2.2\coronastatistic.xml
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.dll
+C:\Users\ben burak\source\repos\coronastatistic\coronastatistic\obj\Debug\netcoreapp2.2\coronastatistic.pdb

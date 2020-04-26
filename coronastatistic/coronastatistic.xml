@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>coronastatistic</name>
+    </assembly>
+    <members>
+        <member name="M:coronastatistic.Controllers.CoronaController.Get_Total_Data">
+            <summary>
+            Get total corona statistics
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:coronastatistic.Controllers.CoronaController.Get_All_Time">
+            <summary>
+            Get all time statistics
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
